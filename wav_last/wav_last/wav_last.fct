@@ -1,0 +1,11 @@
+main DSTACK_USAGE:592 DSTACK_LEVEL:592 FILE:"wav_last.c" LINE:11
+f_open DSTACK_USAGE:43 DSTACK_LEVEL:635 FILE:"C:\cvavreval\lib\ff.lib" LINE:1794
+follow_path DSTACK_USAGE:8 DSTACK_LEVEL:643 FILE:"C:\cvavreval\lib\ff.lib" LINE:1507
+dir_find DSTACK_USAGE:6 DSTACK_LEVEL:649 FILE:"C:\cvavreval\lib\ff.lib" LINE:945
+dir_seek DSTACK_USAGE:10 DSTACK_LEVEL:659 FILE:"C:\cvavreval\lib\ff.lib" LINE:657
+get_fat DSTACK_USAGE:14 DSTACK_LEVEL:673 FILE:"C:\cvavreval\lib\ff.lib" LINE:435
+move_window DSTACK_USAGE:11 DSTACK_LEVEL:684 FILE:"C:\cvavreval\lib\ff.lib" LINE:357
+disk_read DSTACK_USAGE:8 DSTACK_LEVEL:692 FILE:"C:\cvavreval\lib\sdcard.lib" LINE:482
+rx_datablock DSTACK_USAGE:8 DSTACK_LEVEL:700 FILE:"C:\cvavreval\lib\sdcard.lib" LINE:147
+timer2_comp_isr DSTACK_USAGE:12 DSTACK_LEVEL:712 FILE:"wav_last.c" LINE:6
+disk_timerproc DSTACK_USAGE:2 DSTACK_LEVEL:714 FILE:"C:\cvavreval\lib\sdcard.lib" LINE:678

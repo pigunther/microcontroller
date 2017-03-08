@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+prtc_get_time                                                     0x0357       2
+prtc_get_date                                                     0x0359       2
+status                                                            0x035B       1
+timer1                                                            0x035C       1
+timer2                                                            0x035D       1
+card_type                                                         0x035E       1
+pv_S100000B000                                                    0x035F       1
+FatFs                                                             0x0360       2
+Fsid                                                              0x0362       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
